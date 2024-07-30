@@ -1,0 +1,27 @@
+.header {
+  height: 140px;
+  width: 50%;
+  top: 0%;
+  text-align: center;
+  position:absolute;
+  top: 3%;
+  left: 25%;
+  background-color:crimson;
+  border-radius: 20px;
+}
+
+.tituloHeader {
+  font-size: 3em;
+  font-weight: bold;
+  position: relative;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.subtituloHeader {
+  font-size: 2em;
+  font-weight: bold;
+  position: relative;
+  margin-top: 0px;
+  color: white;
+}

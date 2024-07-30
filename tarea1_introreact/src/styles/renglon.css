@@ -1,0 +1,45 @@
+.renglon {
+  display: flex;
+  flex-direction: column;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  border: 1px solid black;
+  transition: background-color 0.3s;
+}
+
+.renglon:hover {
+    background-color: gray; 
+  }
+
+.tituloVideo {
+  font-size: 1em;
+  width: 400px;
+  text-align: center;
+  color: white;
+}
+
+.imagen {
+  width: auto;
+  height: auto;
+  position: relative;
+  padding-top: 10px;
+}
+
+.descripcion {
+  width: 450px;
+  text-align: center;
+  color: white;
+}
+
+.duracion {
+  width: 50px;
+  position: absolute;
+  background-color: black;
+  color: white;
+  top: 80%;
+  left: 80%;
+  text-align: center;
+}

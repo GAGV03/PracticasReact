@@ -1,0 +1,16 @@
+.busqueda{
+align-items: center;
+padding: auto;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.cuadro_buscar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}

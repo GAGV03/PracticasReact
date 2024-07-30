@@ -1,0 +1,11 @@
+.botonAgregar{
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 20px 0;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: 25%;
+}
